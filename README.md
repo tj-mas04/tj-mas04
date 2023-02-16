@@ -1,3 +1,4 @@
+[![MasterHead](https://i.pinimg.com/550x/8f/6e/5b/8f6e5bb87474fcd8e7a6c96e280b2684.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sam T James</h1>
 <h3 align="center">An Undergraduate from SRM Institute of Science and Technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
@@ -22,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tj-mas04&show_icons=true&locale=en" alt="tj-mas04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tj-mas04&" alt="tj-mas04" /></p>
+
